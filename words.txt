@@ -1,0 +1,10 @@
+hangman
+flower
+mango
+cream
+buffalo
+computer
+mario
+happy
+sad
+bicycle
